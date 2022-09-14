@@ -1,5 +1,5 @@
 # learn_fork_and_pull_request
-Learn markdown, fork and make pull request this readme file
+Learn markdown, fork and make pull request this readme file, please star this repo
 
 
 ## Clone the repo
